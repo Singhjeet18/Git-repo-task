@@ -1,4 +1,2 @@
 
-master edit
-sub branch is modified
-
+master file modified
